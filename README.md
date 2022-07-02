@@ -29,22 +29,19 @@ Once the project is compiled, we can execute it with the following format:
 ```bash
 ./wolfram --rule nb1 --lines nb1 [--start nb3 OR --move nb3]
 
-```png
 ![Haskell1](https://user-images.githubusercontent.com/84536283/177004005-e2d418d4-c763-469b-9905-302a06101d2c.png)
-```
+
 
 # Examples
 Here you have some examples of usage and results:
 
-```png
+
 ![Haskell2](https://user-images.githubusercontent.com/84536283/177004116-7046d80d-2b00-470e-9728-914819938424.png)
-```
-```png
+
 ![Haskell3](https://user-images.githubusercontent.com/84536283/177004132-3e51125a-ada5-45b1-9edf-9d38b5eec9b9.png)
-```
-```png
+
 ![Haskell4](https://user-images.githubusercontent.com/84536283/177004154-93c3b317-d457-49ed-ba6f-dffbf5034111.png)
-```
+
 
 # Rules
 Only the rule 30, 90 and 110 are available in this version.
