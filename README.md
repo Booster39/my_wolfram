@@ -1,4 +1,4 @@
-# wolfram
+# Wolfram on Linux
 Reproducing Conway's Game of Life: Cellular Automata/ Elementary cellular automaton
 Three rules: -> Rule 30  -> Rule 90  -> Rule 110
 
