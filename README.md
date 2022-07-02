@@ -30,7 +30,7 @@ Once the project is compiled, we can execute it with the following format:
 ./wolfram --rule nb1 --lines nb1 [--start nb3 OR --move nb3]
 ```
 
-![Haskell1](https://user-images.githubusercontent.com/84536283/177004005-e2d418d4-c763-469b-9905-302a06101d2c.png)
+![has](https://user-images.githubusercontent.com/84536283/177004564-267627c4-cfff-448e-913e-36a9cae343d2.png)
 
 
 # Examples
