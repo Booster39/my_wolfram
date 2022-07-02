@@ -30,7 +30,7 @@ Once the project is compiled, we can execute it with the following format:
 ./wolfram --rule nb1 --lines nb1 [--start nb3 OR --move nb3]
 ```
 
-![has](https://user-images.githubusercontent.com/84536283/177004564-267627c4-cfff-448e-913e-36a9cae343d2.png)
+![h](https://user-images.githubusercontent.com/84536283/177004625-434eeba2-49c4-46bc-a152-ef1afc62da52.png)
 
 
 # Examples
